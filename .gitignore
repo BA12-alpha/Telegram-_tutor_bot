@@ -1,0 +1,14 @@
+# Entornos y dependencias
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Configuración sensible
+config.json
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+.DS_Store
